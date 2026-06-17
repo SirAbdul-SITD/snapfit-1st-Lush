@@ -1,0 +1,42 @@
+═══════════════════════════════════════════
+SNAPFIT — PLAY STORE LISTING
+com.lushdevs.snapfit
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+SnapFit: Block Fit Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Fit every pre-cut piece back into the blueprint. 150 satisfying puzzles!
+
+FULL DESCRIPTION:
+📐 EVERY PIECE HAS ITS PLACE. 📐
+
+SnapFit hands you a blueprint and a tray of odd-shaped pieces. Your job: fit every single piece back into the grid until the blueprint is perfectly filled. No rotation, no tricks — every piece is pre-cut to fit. Finding WHERE is the puzzle.
+
+🧩 HOW TO PLAY
+• Tap a piece in the tray to pick it up
+• Tap the blueprint where it should go — it snaps right in
+• Tap a placed piece to lift it back out
+• Fill every cell of the blueprint to win
+• Place each piece right the first time for 3 stars!
+
+✨ FEATURES
+• 150 puzzles: Easy 6×6, Medium 7×7, Hard 8×8 blueprints
+• Every level is solvable by construction — the pieces ARE the board
+• Forgiving tap-to-place: pieces snap into any spot they fit
+• Clean drafting-table blueprint aesthetic with vivid pieces
+• Par system rewards first-try precision
+• Calm ambient soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 PACKING PUZZLES, PURIFIED
+Like a jigsaw with no picture and no rotation — just shapes, space, and spatial reasoning. Early boards click together in seconds; later ones will have you staring at one stubborn gap.
+
+Grab the tray. The blueprint is waiting. 📐
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: block, fit, tangram, packing, puzzle, shapes, blueprint, logic, jigsaw, brain
